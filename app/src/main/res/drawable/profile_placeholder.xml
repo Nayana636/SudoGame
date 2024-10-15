@@ -1,0 +1,19 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Background color (light gray in this case) -->
+    <solid android:color="#D3D3D3"/>
+
+    <!-- Optional border -->
+    <stroke
+        android:width="2dp"
+        android:color="#A0A0A0"/> <!-- Light border color -->
+
+    <!-- Padding inside the placeholder -->
+    <padding
+        android:left="4dp"
+        android:right="4dp"
+        android:top="4dp"
+        android:bottom="4dp"/>
+
+</shape>
